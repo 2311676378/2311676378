@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @2311676378
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 你好，我是神墨 🌟
 
-<!---
-2311676378/2311676378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+ **语言与工具**
+
+-  编程语言：Python, PHP, C#
+-  编程工具：VSCode, VS Studio
+
+---
+
+ **如何联系我**
+
+- 📧 邮件：smnetstudio1001@gmail.com
+- 📱 TG: [加入群组](https://t.me/starlight_studio_coco)
+
+---
+
+感谢你访问我的GitHub个人页面，愿我们共同为一个更好的世界而努力！
