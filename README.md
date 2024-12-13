@@ -12,7 +12,7 @@
  **如何联系我**
 
 - 📧 邮件：smnetstudio1001@gmail.com
-- 📱 TG: [加入群组](https://t.me/starlight_studio_coco)
+- 📱 TG: [加入频道](https://t.me/smnetstudio)
 
 ---
 
