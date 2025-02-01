@@ -11,7 +11,7 @@
 
  **如何联系我**
 
-- 📧 邮件：smnetstudio1001@gmail.com
+- 📧 邮件：smnet@duck.com
 - 📱 TG: [加入频道](https://t.me/smnetstudio)
 
 ---
